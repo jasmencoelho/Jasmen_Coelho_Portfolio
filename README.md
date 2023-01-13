@@ -9,3 +9,9 @@ Projects I am working on as I expand my experience to the exciting world of data
 * Filtering the DataFrame
 * Creating a scatterplot
 * Assigning color to data points
+
+![](https://github.com/jasmencoelho/Jasmen_Coelho_Portfolio/blob/main/images/line_graph.png)
+
+![](https://github.com/jasmencoelho/Jasmen_Coelho_Portfolio/blob/main/images/nocolor.png)
+
+![](https://github.com/jasmencoelho/Jasmen_Coelho_Portfolio/blob/main/images/Movie_duration_by_year.png)
