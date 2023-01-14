@@ -10,8 +10,8 @@ Projects I am working on as I expand my experience to the exciting world of data
 * Creating a scatterplot
 * Assigning color to data points
 
-![](https://github.com/jasmencoelho/Jasmen_Coelho_Portfolio/blob/main/images/line_graph.png)
+![](https://raw.githubusercontent.com/jasmencoelho/Jasmen_Coelho_Portfolio/main/images/line_graph.png)
 
-![](https://github.com/jasmencoelho/Jasmen_Coelho_Portfolio/blob/main/images/nocolor.png)
+![](https://raw.githubusercontent.com/jasmencoelho/Jasmen_Coelho_Portfolio/main/images/nocolor.png)
 
-![](https://github.com/jasmencoelho/Jasmen_Coelho_Portfolio/blob/main/images/Movie_duration_by_year.png)
+![](https://raw.githubusercontent.com/jasmencoelho/Jasmen_Coelho_Portfolio/main/images/Movie_duration_by_year.png)
