@@ -1,4 +1,6 @@
-# Jasmen_Coelho_Portfolio
+# [My Resume](https://htmlpreview.github.io/?https://github.com/jasmencoelho/Jasmen_Coelho_Portfolio/blob/main/resume.html)
+
+# My Portfolio
 Projects I am working on as I expand my experience to the exciting world of data science!
 
 # [Project 1: Investigating Netflix Movies Duration](https://app.datacamp.com/workspace/w/8711015b-f671-4890-8103-d7f7ea71fb67)
