@@ -1,5 +1,3 @@
-# [My Resume](https://htmlpreview.github.io/?https://github.com/jasmencoelho/Jasmen_Coelho_Portfolio/blob/main/resume.html)
-
 # My Portfolio
 Projects I am working on as I expand my experience to the exciting world of data science!
 
